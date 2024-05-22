@@ -21,7 +21,7 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 
 
 ### Home Page
-![Home Page](Screenshot 2024-05-22 200311.png)
+![Home Page](screenshot/Screenshot 2024-05-22 200311.png)
 
 ### Shopping List
 ![Shopping List](screenshots/shopping_list.png)
