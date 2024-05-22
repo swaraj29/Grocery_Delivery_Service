@@ -21,7 +21,8 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 
 
 ### Home Page
-![Home Page]([screenshot/Screenshot 2024-05-22 200311.png](https://github.com/swaraj29/Grocery_Delivery_Service/blob/7bb3b061a33fcbe8eadacf59585fa5de302039af/screenshot/Screenshot%202024-05-22%20200311.png))
+![Home Page](https://github.com/swaraj29/Grocery_Delivery_Service/blob/7bb3b061a33fcbe8eadacf59585fa5de302039af/screenshot/Screenshot%202024-05-22%20200311.png)
+
 
 ### Shopping List
 ![Shopping List](screenshots/shopping_list.png)
