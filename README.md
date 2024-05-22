@@ -7,7 +7,6 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 - **Shopping Lists**: Create and manage multiple shopping lists.
 - **Expense Tracking**: Track your grocery expenses and stay within budget.
 - **Recipe Discovery**: Find new recipes and add ingredients to your shopping list.
-- **Deals and Discounts**: Discover the best deals from various grocery stores.
 - **User Authentication**: Secure login and registration with JWT.
 - **Responsive Design**: Accessible on all devices, thanks to TailwindCSS.
 
@@ -20,8 +19,9 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 
 ## Screenshots
 
+
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](Screenshot 2024-05-22 200311.png)
 
 ### Shopping List
 ![Shopping List](screenshots/shopping_list.png)
