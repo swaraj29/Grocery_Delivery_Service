@@ -10,6 +10,16 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 - **User Authentication**: Secure login and registration with JWT.
 - **Responsive Design**: Accessible on all devices, thanks to TailwindCSS.
 
+  ## Technologies Used
+
+- MongoDB
+- Express.js
+- React
+- Node.js
+- Tailwind CSS
+- JWT (JSON Web Tokens)
+
+
 ## Screenshots
 
 ### Home Page
