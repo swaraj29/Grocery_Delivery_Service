@@ -10,31 +10,22 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 - **User Authentication**: Secure login and registration with JWT.
 - **Responsive Design**: Accessible on all devices, thanks to TailwindCSS.
 
-## Tech Stack
-
-- **Frontend**: React, TailwindCSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
-
 ## Screenshots
 
-
 ### Home Page
-![Home Page](https://github.com/swaraj29/Grocery_Delivery_Service/blob/7bb3b061a33fcbe8eadacf59585fa5de302039af/screenshot/Screenshot%202024-05-22%20200311.png)
-
+![Home Page](https://github.com/swaraj29/Grocery_Delivery_Service/raw/main/screenshot/Screenshot%202024-05-22%20200311.png)
 
 ### Shopping List
-![Shopping List](https://github.com/swaraj29/Grocery_Delivery_Service/blob/8115892c8a8cc31290f51ba4a21534c15be1784b/screenshot/Screenshot%202024-05-22%20200514.png)
+![Shopping List](https://github.com/swaraj29/Grocery_Delivery_Service/raw/main/screenshot/Screenshot%202024-05-22%20200514.png)
 
 ### Product List
-![Product List](https://github.com/swaraj29/Grocery_Delivery_Service/blob/8115892c8a8cc31290f51ba4a21534c15be1784b/screenshot/Screenshot%202024-05-22%20200335.png)
+![Product List](https://github.com/swaraj29/Grocery_Delivery_Service/raw/main/screenshot/Screenshot%202024-05-22%20200335.png)
 
-### Releated Product List
-![Releated Product List](https://github.com/swaraj29/Grocery_Delivery_Service/blob/8115892c8a8cc31290f51ba4a21534c15be1784b/screenshot/Screenshot%202024-05-22%20200411.png)
+### Related Product List
+![Related Product List](https://github.com/swaraj29/Grocery_Delivery_Service/raw/main/screenshot/Screenshot%202024-05-22%20200411.png)
 
 ### Authentication
-![Recipe Discovery](https://github.com/swaraj29/Grocery_Delivery_Service/blob/8115892c8a8cc31290f51ba4a21534c15be1784b/screenshot/Screenshot%202024-05-22%20200635.png)
+![Authentication](https://github.com/swaraj29/Grocery_Delivery_Service/raw/main/screenshot/Screenshot%202024-05-22%20200635.png)
 
 ## Installation
 
@@ -65,52 +56,44 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 
     **Backend**:
     ```sh
-    npm start
+    npm run start
     ```
 
     **Frontend**:
     ```sh
     cd client
-    npm start
+    npm run start
     ```
 
 ## Usage
 
-1. **Create a Shopping List**
-    - Navigate to the "Shopping Lists" section.
-    - Click "New List" to create a new shopping list.
-    - Add items to your list using the form or barcode scanner.
+1. **Product Management**
+    - Developed a comprehensive product catalog management system for easy item addition, modification, and removal.
+    - Utilized MongoDB for efficient database management.
+    - Implemented backend APIs using Express.js to handle CRUD operations for products.
+    - Designed frontend interfaces with React.js for seamless user interaction.
+    - Enabled server-side scripting with Node.js to manage product data.
 
-2. **Track Expenses**
-    - Go to the "Expense Tracker" section.
-    - Add your expenses to keep track of your grocery spending.
-    - View expense reports to manage your budget.
+2. **Shopping Cart and Checkout Process**
+    - Optimized the shopping cart and checkout process to ensure a seamless user experience.
+    - Implemented features such as adding/removing items from the cart, updating quantities, and calculating totals.
+    - Integrated secure payment gateways for smooth transactions.
 
-3. **Discover Recipes**
-    - Visit the "Recipes" section.
-    - Browse or search for recipes.
-    - Add recipe ingredients directly to your shopping list.
+3. **Responsive Design**
+    - Ensured website responsiveness across all devices, including desktops, laptops, tablets, and smartphones.
+    - Utilized responsive design techniques with CSS and media queries.
+    - Tested the website on various screen sizes and resolutions to guarantee compatibility.
 
-4. **Find Deals**
-    - Check the "Deals" section for the latest discounts and offers.
-    - Filter deals by store or category.
+4. **User Authentication and Authorization**
+    - Implemented user authentication and authorization functionalities using JWT (JSON Web Tokens).
+    - Secured routes and endpoints to restrict access based on user roles.
+    - Provided features like user registration, login, and logout.
 
-## Contributing
-
-We welcome contributions from the community! Here’s how you can help:
-
-1. **Report Bugs**: If you find a bug, please open an issue on our GitHub repository.
-2. **Suggest Features**: Have an idea for a new feature? Let us know by opening an issue.
-3. **Submit Pull Requests**: Fork the repository and submit pull requests with your enhancements.
-
-## License
-
-GroceryApp is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+5. **Search and Filtering**
+    - Implemented search and filtering functionalities to help users find products easily.
+    - Integrated search bars and filters based on categories, brands, prices, etc.
+    - Utilized MongoDB queries and indexing for efficient search operations.
 
 ## Contact
 
-For support or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Thank you for using GroceryApp! We hope it makes your grocery shopping easier and more enjoyable. Happy shopping!
+For support or inquiries, please contact [028swarajkumar@gmail.com](mailto:028swarajkumar@gmail.com).
