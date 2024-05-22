@@ -27,10 +27,13 @@ GroceryApp is a modern web application designed to streamline your grocery shopp
 ### Shopping List
 ![Shopping List](screenshots/shopping_list.png)
 
-### Expense Tracker
-![Expense Tracker](screenshots/expense_tracker.png)
+### Product List
+![Product List](screenshots/expense_tracker.png)
 
-### Recipe Discovery
+### Releated Product List
+![Releated Product List](screenshots/expense_tracker.png)
+
+### Authentication
 ![Recipe Discovery](screenshots/recipe_discovery.png)
 
 ## Installation
